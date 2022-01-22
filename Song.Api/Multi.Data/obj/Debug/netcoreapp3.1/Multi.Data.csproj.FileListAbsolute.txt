@@ -1,0 +1,13 @@
+C:\Users\HesenCode\Desktop\Nez.Task.21\Song.Api\Multi.Data\bin\Debug\netcoreapp3.1\Multi.Data.deps.json
+C:\Users\HesenCode\Desktop\Nez.Task.21\Song.Api\Multi.Data\bin\Debug\netcoreapp3.1\Multi.Data.dll
+C:\Users\HesenCode\Desktop\Nez.Task.21\Song.Api\Multi.Data\bin\Debug\netcoreapp3.1\Multi.Data.pdb
+C:\Users\HesenCode\Desktop\Nez.Task.21\Song.Api\Multi.Data\bin\Debug\netcoreapp3.1\Multi.Core.dll
+C:\Users\HesenCode\Desktop\Nez.Task.21\Song.Api\Multi.Data\bin\Debug\netcoreapp3.1\Multi.Core.pdb
+C:\Users\HesenCode\Desktop\Nez.Task.21\Song.Api\Multi.Data\obj\Debug\netcoreapp3.1\Multi.Data.csproj.AssemblyReference.cache
+C:\Users\HesenCode\Desktop\Nez.Task.21\Song.Api\Multi.Data\obj\Debug\netcoreapp3.1\Multi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HesenCode\Desktop\Nez.Task.21\Song.Api\Multi.Data\obj\Debug\netcoreapp3.1\Multi.Data.AssemblyInfoInputs.cache
+C:\Users\HesenCode\Desktop\Nez.Task.21\Song.Api\Multi.Data\obj\Debug\netcoreapp3.1\Multi.Data.AssemblyInfo.cs
+C:\Users\HesenCode\Desktop\Nez.Task.21\Song.Api\Multi.Data\obj\Debug\netcoreapp3.1\Multi.Data.csproj.CoreCompileInputs.cache
+C:\Users\HesenCode\Desktop\Nez.Task.21\Song.Api\Multi.Data\obj\Debug\netcoreapp3.1\Multi.Data.csproj.CopyComplete
+C:\Users\HesenCode\Desktop\Nez.Task.21\Song.Api\Multi.Data\obj\Debug\netcoreapp3.1\Multi.Data.dll
+C:\Users\HesenCode\Desktop\Nez.Task.21\Song.Api\Multi.Data\obj\Debug\netcoreapp3.1\Multi.Data.pdb
